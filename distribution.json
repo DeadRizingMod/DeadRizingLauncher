@@ -9,9 +9,9 @@
          "id":"deadrizing",
          "name":"DeadRizing Mod",
          "description":"Open world zombie apoclypse mod",
-         "icon":"https://studio.arking.fr/img/arkaniazlogo.png",
+         "icon":"https://cdn.discordapp.com/attachments/539218679695671317/705261337940328458/D.png",
          "version":"1.2.3",
-         "address":"192.99.194.146:25565",
+         "address":"51.79.0.176:25749",
          "minecraftVersion":"1.12.2",
          "mainServer":false,
          "autoconnect":false,
@@ -229,45 +229,45 @@
                ]
             },
             {
-               "id":"DeadRizing:deadrizingcore.1.2.3",
+               "id":"DeadRizing:deadrizingcore.1.2.6",
                "name":"DeadRizing - Core",
                "type":"ForgeMod",
                "artifact":{
                   "size":16411746,
-                  "MD5":"3ba5f0ec95596bbf2e4fe3d81c42fb4c",
+                  "MD5":"71D1282C2D9D69C5BEA7856157C5BA6F",
                   "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMenu.jar"
                }
             },
 			
 			{
-               "id":"DeadRizing:blur.1.2.3",
+               "id":"DeadRizing:blur.1.2.6",
                "name":"DeadRizing - blur",
                "type":"ForgeMod",
                "artifact":{
-                  "size":16411746,
-                  "MD5":"3ba5f0ec95596bbf2e4fe3d81c42fb4c",
+                  "size":16146,
+                  "MD5":"FE6C57AF5BE36A9ED96F8FF7DE61BBD1",
                   "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMenu.jar"
                }
             },
 
             {
-               "id":"DeadRizing:guns.1.2.3",
+               "id":"DeadRizing:guns.1.2.6",
                "name":"DeadRizing - Guns",
                "type":"ForgeMod",
                "artifact":{
                   "size":16411746,
-                  "MD5":"3ba5f0ec95596bbf2e4fe3d81c42fb4c",
+                  "MD5":"FC6588C88AC130622793773A2F6A33D9",
                   "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMenu.jar"
                }
             },
 			
 			            {
-               "id":"DeadRizing:deadrizingcore.1.2.3",
+               "id":"DeadRizing:optifine.1.2.6",
                "name":"DeadRizing - Optifine",
                "type":"ForgeMod",
                "artifact":{
                   "size":16411746,
-                  "MD5":"3ba5f0ec95596bbf2e4fe3d81c42fb4c",
+                  "MD5":"043AC1DB6F7441EA4CF31BCB621AFF0B",
                   "url":"https://launcher.arkaniaz.fr/mods/ArkaniaZMenu.jar"
                }
             }
